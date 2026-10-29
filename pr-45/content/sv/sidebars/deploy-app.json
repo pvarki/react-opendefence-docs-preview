@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "label": "Deploy App",
+  "slug": "deploy-app",
+  "items": [
+    {
+      "type": "doc",
+      "id": "introduktion-8VdRmYg8Vp",
+      "label": "Introduktion",
+      "slug": "introduktion-8VdRmYg8Vp"
+    },
+    {
+      "type": "group",
+      "id": "anvandarguide-q7fgVGQ10J",
+      "label": "Användarguide",
+      "clientId": "android-yFEMlNyGOI",
+      "children": [
+        {
+          "type": "doc",
+          "id": "ga-med-i-en-deploy-app-Weat7nbJuF",
+          "label": "Gå med i en Deploy App",
+          "slug": "ga-med-i-en-deploy-app-Weat7nbJuF"
+        },
+        {
+          "type": "doc",
+          "id": "anvanda-applikationer-0DvdFxbzvH",
+          "label": "Använda applikationer",
+          "slug": "anvanda-applikationer-0DvdFxbzvH"
+        },
+        {
+          "type": "doc",
+          "id": "granssnitt-vx5s9QUx7Y",
+          "label": "Gränssnitt",
+          "slug": "granssnitt-vx5s9QUx7Y"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "administratorsguide-iLjfd22kyb",
+      "label": "Administratörsguide",
+      "clientId": "android-yFEMlNyGOI",
+      "children": [
+        {
+          "type": "doc",
+          "id": "forsta-inloggningen-X4xEQb7jxr",
+          "label": "Första inloggningen",
+          "slug": "forsta-inloggningen-X4xEQb7jxr"
+        },
+        {
+          "type": "doc",
+          "id": "lagga-till-anvandare-PhAiFqGhft",
+          "label": "Lägga till användare",
+          "slug": "lagga-till-anvandare-PhAiFqGhft"
+        },
+        {
+          "type": "doc",
+          "id": "hantera-anvandare-ROwlDqFUYe",
+          "label": "Hantera användare",
+          "slug": "hantera-anvandare-ROwlDqFUYe"
+        },
+        {
+          "type": "doc",
+          "id": "atkomst-till-externa-tjanster-j1mymYziCz",
+          "label": "Åtkomst till externa tjänster",
+          "slug": "atkomst-till-externa-tjanster-j1mymYziCz"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "anvandarguide-FJrCbvVTSc",
+      "label": "Användarguide",
+      "clientId": "ios-DxdsS15Cw5",
+      "children": [
+        {
+          "type": "doc",
+          "id": "ansluta-till-en-deploy-app-rDiRCLSL8s",
+          "label": "Ansluta till en Deploy App",
+          "slug": "ansluta-till-en-deploy-app-rDiRCLSL8s"
+        },
+        {
+          "type": "doc",
+          "id": "anvanda-applikationer-TmM85VECUH",
+          "label": "Använda applikationer",
+          "slug": "anvanda-applikationer-TmM85VECUH"
+        },
+        {
+          "type": "doc",
+          "id": "granssnitt-fbWb4p1Ea6",
+          "label": "Gränssnitt",
+          "slug": "granssnitt-fbWb4p1Ea6"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "administratorsguide-P4mTBh6X2Z",
+      "label": "Administratörsguide",
+      "clientId": "ios-DxdsS15Cw5",
+      "children": [
+        {
+          "type": "doc",
+          "id": "forsta-inloggningen-ZynVs60T8M",
+          "label": "Första inloggningen",
+          "slug": "forsta-inloggningen-ZynVs60T8M"
+        },
+        {
+          "type": "doc",
+          "id": "lagga-till-anvandare-yQNQQKKHyp",
+          "label": "Lägga till användare",
+          "slug": "lagga-till-anvandare-yQNQQKKHyp"
+        },
+        {
+          "type": "doc",
+          "id": "hantera-anvandare-l24qOTAPIQ",
+          "label": "Hantera användare",
+          "slug": "hantera-anvandare-l24qOTAPIQ"
+        },
+        {
+          "type": "doc",
+          "id": "externa-tjanster-0NmqWJBmQK",
+          "label": "Externa tjänster",
+          "slug": "externa-tjanster-0NmqWJBmQK"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "anvandarguide-zWb3Jru26O",
+      "label": "Användarguide",
+      "clientId": "windows-50bH36irMT",
+      "children": [
+        {
+          "type": "doc",
+          "id": "anslut-till-en-deploy-app-LSYhrD19yJ",
+          "label": "Anslut till en Deploy App",
+          "slug": "anslut-till-en-deploy-app-LSYhrD19yJ"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "administratorsguide-fYeYwXUSeF",
+      "label": "Administratörsguide",
+      "clientId": "windows-50bH36irMT",
+      "children": [
+        {
+          "type": "doc",
+          "id": "forsta-inloggningen-30j0MZLvzy",
+          "label": "Första inloggningen",
+          "slug": "forsta-inloggningen-30j0MZLvzy"
+        }
+      ]
+    }
+  ]
+}
