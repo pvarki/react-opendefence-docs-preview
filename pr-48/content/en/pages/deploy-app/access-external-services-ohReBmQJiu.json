@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "dd6f5149-2000-47ed-a5af-cec0ab003039",
+  "slug": "access-external-services-ohReBmQJiu",
+  "collection": "deploy-app",
+  "locale": "en",
+  "title": "Access External Services",
+  "breadcrumb": [
+    "Platforms",
+    "Android",
+    "Admin Guide",
+    "Access External Services"
+  ],
+  "createdAt": "2025-12-06T09:39:50.140Z",
+  "updatedAt": "2026-06-13T22:51:04.465Z",
+  "headings": [],
+  "blocks": [
+    {
+      "type": "slideset",
+      "source": "legacy",
+      "slides": [
+        {
+          "title": "External Services",
+          "layout": "image-left",
+          "html": "<ul>\n<li>External Services link you to other sites avaivable in your Deploy App instance.</li>\n<li>These are not necessary needed in day to day operations, but grant more features for power users.</li>\n<li>Currently these are most useful for TAK &#x26; TAK Plugin users.</li>\n</ul>",
+          "images": []
+        },
+        {
+          "title": "Accessing External Services",
+          "layout": "image-left",
+          "html": "<ul>\n<li>External Services can be accessed from the sidebar.</li>\n<li>Select <strong>\"Admin Tools\"</strong> and then <strong>\"External Services\".</strong></li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/7d126d3d3daf2488.webp",
+              "width": 2560,
+              "height": 5712
+            }
+          ]
+        },
+        {
+          "title": "Services Available",
+          "layout": "image-left",
+          "html": "<ul>\n<li>The available services vary from deployment to deployment depending on what services you have ordered.</li>\n<li>Each should have a short description of what it does.</li>\n<li>They open by clicking on them and should ask for your mTLS-certificate for secure login.</li>\n</ul>",
+          "images": []
+        },
+        {
+          "title": "Keycloak",
+          "layout": "image-left",
+          "html": "<ul>\n<li>Presently, via Keycloak you can manage groups users have.</li>\n<li>This has effect to TAK users as this group setup is synced to the TAK Server.</li>\n<li>In expected use, you don't have to touch Keycloak at all.</li>\n<li>Experienced users can do a lot, eg. connect external applications to your Deploy App.</li>\n</ul>",
+          "images": []
+        }
+      ]
+    }
+  ]
+}

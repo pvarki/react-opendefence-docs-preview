@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "5d6ca81c-c79b-4aff-b76d-9815d68191f1",
+  "slug": "using-applications-CsobZMZ45Q",
+  "collection": "deploy-app",
+  "locale": "en",
+  "title": "Using applications",
+  "breadcrumb": [
+    "Platforms",
+    "Android",
+    "User Guide",
+    "Using applications"
+  ],
+  "createdAt": "2025-12-06T09:39:40.929Z",
+  "updatedAt": "2026-06-13T22:25:14.378Z",
+  "headings": [],
+  "blocks": [
+    {
+      "type": "slideset",
+      "source": "legacy",
+      "slides": [
+        {
+          "title": "Accessing Applications",
+          "layout": "image-left",
+          "html": "<ul>\n<li>The applications available to you in your server are listed on the frontpage.</li>\n<li>You can open the application by clicking the \"Open\" button.</li>\n<li>There is also the \"Docs\" option. It links to a Product Guide in the Docs app.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/25c1580a29c70523.webp",
+              "width": 2560,
+              "height": 5712
+            }
+          ]
+        },
+        {
+          "title": "Using Applications",
+          "layout": "image-left",
+          "html": "<ul>\n<li>Most applications have onboarding guides to walk you through every key feature.</li>\n<li>You can also find <strong>Product Guides</strong> on this site to learn the basics quickly or <strong>Product Wikis</strong> to master them.\nYour identity in Deploy App serves as your id ('SSO') across all applications. Your role or access changes in Deploy App, it changes in all apps.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/45b76255f58fe7c7.webp",
+              "width": 2560,
+              "height": 5712
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
