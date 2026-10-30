@@ -1,0 +1,72 @@
+{
+  "generatedAt": "2026-09-08T10:29:11.492Z",
+  "components": [
+    {
+      "id": "opendefence-platform",
+      "name": "OpenDefence Platform (K8s)",
+      "repo": "pvarki/opendefence-platform",
+      "releases": []
+    },
+    {
+      "id": "python-integration-template",
+      "name": "Integration Template (rmapi)",
+      "repo": "pvarki/python-integration-template",
+      "releases": []
+    },
+    {
+      "id": "python-tak-rmapi",
+      "name": "TAK Integration",
+      "repo": "pvarki/python-tak-rmapi",
+      "releases": []
+    },
+    {
+      "id": "python-mediamtx-rmmtxauthz",
+      "name": "MediaMTX Integration",
+      "repo": "pvarki/python-mediamtx-rmmtxauthz",
+      "releases": []
+    },
+    {
+      "id": "python-matrix-rmapi",
+      "name": "Matrix Integration",
+      "repo": "pvarki/python-matrix-rmapi",
+      "releases": [
+        {
+          "file": "v1.3.2.json",
+          "tag": "v1.3.2",
+          "publishedAt": "2026-08-22T00:08:04Z"
+        },
+        {
+          "file": "v1.3.1.json",
+          "tag": "v1.3.1",
+          "publishedAt": "2026-08-03T06:01:40Z"
+        },
+        {
+          "file": "v1.3.0.json",
+          "tag": "v1.3.0",
+          "publishedAt": "2026-07-14T10:33:57Z"
+        },
+        {
+          "file": "v1.2.2.json",
+          "tag": "v1.2.2",
+          "publishedAt": "2026-07-02T11:58:34Z"
+        },
+        {
+          "file": "v1.2.1.json",
+          "tag": "v1.2.1",
+          "publishedAt": "2026-06-14T13:48:54Z"
+        },
+        {
+          "file": "v1.2.0.json",
+          "tag": "v1.2.0",
+          "publishedAt": "2026-06-14T13:16:33Z"
+        },
+        {
+          "file": "v1.1.2.json",
+          "tag": "v1.1.2",
+          "publishedAt": "2026-06-09T19:29:41Z"
+        }
+      ],
+      "changelogFile": "changelog.json"
+    }
+  ]
+}
