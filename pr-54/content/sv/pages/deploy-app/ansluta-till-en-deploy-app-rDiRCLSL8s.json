@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "1fe5d874-1b38-4f80-9cab-3462eb2c6a01",
+  "slug": "ansluta-till-en-deploy-app-rDiRCLSL8s",
+  "collection": "deploy-app",
+  "locale": "sv",
+  "title": "Ansluta till en Deploy App",
+  "breadcrumb": [
+    "Platforms",
+    "iOS",
+    "Användarguide",
+    "Ansluta till en Deploy App"
+  ],
+  "createdAt": "2026-06-18T20:34:52.742Z",
+  "updatedAt": "2026-10-22T13:25:50.253Z",
+  "headings": [],
+  "translations": {
+    "en": "/en/deploy-app/joining-a-deploy-app-A7hCnp5D1b",
+    "fi": "/fi/deploy-app/liittyminen-deploy-appiin-Jy261fSdzF",
+    "sv": "/sv/deploy-app/ansluta-till-en-deploy-app-rDiRCLSL8s"
+  },
+  "blocks": [
+    {
+      "type": "slideset",
+      "source": "legacy",
+      "slides": [
+        {
+          "title": "Öppna din inbjudan",
+          "layout": "image-left",
+          "html": "<p>Öppna inbjudningslänken eller skanna QR-koden du fick. Deploy App öppnas med inbjudningskoden ifylld.</p>\n<ul>\n<li>Fick du bara en kod? Skriv den i <strong>Ange din kod</strong> och tryck <strong>Logga in med kod</strong>.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/984da7e02593aac3.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Välj din anropssignal",
+          "layout": "image-left",
+          "html": "<p>Skriv en anropssignal som din enhet känner igen dig på och tryck <strong>Fortsätt</strong>.</p>\n<ul>\n<li>Du använder samma anropssignal i alla tjänster.</li>\n<li>Den är också lösenordet till ditt certifikat.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/49ed43bfdcfe8a29.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Bli godkänd",
+          "layout": "image-left",
+          "html": "<p>En administratör måste godkänna dig.</p>\n<ul>\n<li>Administratören bredvid dig: visa QR-koden.</li>\n<li>Administratören någon annanstans: tryck <strong>Skicka länk</strong> och välj hen i till exempel Signal.</li>\n<li>Låt sidan vara öppen. Den går vidare av sig själv när du är godkänd.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/d7c6d851821af119.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Hämta din nyckel",
+          "layout": "image-left",
+          "html": "<p>Tryck <strong>Ladda ner nyckel</strong>. Safari frågar om en konfigurationsprofil. Tryck <strong>Tillåt</strong> och sedan <strong>Stäng</strong>.</p>",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/7291a1f70c634aa1.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Installera nyckeln i Inställningar",
+          "layout": "image-left",
+          "html": "<p>Öppna <strong>Inställningar</strong> och följ rutorna:</p>\n<ol>\n<li>Tryck <strong>Profil hämtad</strong>.</li>\n<li>Tryck <strong>Installera</strong> tre gånger och ange din lösenkod.</li>\n<li>Klistra in lösenordet. Deploy App har redan kopierat din anropssignal.</li>\n<li>Tryck <strong>Klar</strong> och gå tillbaka till Safari.</li>\n</ol>\n<p>Tryck sedan <strong>Installerad – fortsätt</strong>.</p>\n<ul>\n<li>Misslyckades installationen? Ta bort den gamla profilen under <strong>Allmänt → VPN och enhetshantering</strong>.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/21f2fc7f6af10489.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Gå till tjänsten",
+          "layout": "image-left",
+          "html": "<p>Tryck <strong>Gå till tjänsten</strong>. När Safari ber om ditt certifikat, tryck <strong>Fortsätt</strong>.</p>",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/4ee8b3bc53198da5.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Du är inne",
+          "layout": "image-left",
+          "html": "<p>Deploy App öppnas. En kort guide visas första gången. Tryck <strong>Nästa</strong> för att gå igenom den, eller stäng den.</p>\n<ul>\n<li>Kryssa i <strong>Visa inte guider automatiskt för mig</strong> om du inte vill att guider ska dyka upp.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/8a9b30328fd9c806.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
