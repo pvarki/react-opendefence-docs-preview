@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "a9979711-9672-4008-bab3-331107520a07",
+  "slug": "grundvy-verktyg-och-verktygsfalt-Lpm8S3bYgv",
+  "collection": "guides/tak-guide",
+  "locale": "sv",
+  "title": "Grundvy, verktyg och verktygsfält",
+  "breadcrumb": [
+    "Platforms",
+    "ATAK",
+    "Grundläggande funktioner",
+    "Grundvy, verktyg och verktygsfält"
+  ],
+  "createdAt": "2026-06-18T19:25:14.515Z",
+  "updatedAt": "2026-09-12T19:58:55.486Z",
+  "headings": [],
+  "translations": {
+    "en": "/en/guides/tak-guide/basic-view-tools-and-toolbar-juXbYsGMih",
+    "fi": "/fi/guides/tak-guide/perusnakyma-tyokalut-ja-tyokalupalkki-5cY07BjmD4",
+    "sv": "/sv/guides/tak-guide/grundvy-verktyg-och-verktygsfalt-Lpm8S3bYgv"
+  },
+  "blocks": [
+    {
+      "type": "slideset",
+      "source": "canonical",
+      "slides": [
+        {
+          "title": "Grundvy",
+          "layout": "image-bottom",
+          "html": "<p>Följande bilder visar dig ATAK:s grundläggande gränssnitt och betydelsen av de olika knapparna.</p>",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/458ff245c9efc6aa.webp",
+              "width": 1600,
+              "height": 900
+            }
+          ]
+        },
+        {
+          "title": "Grundläggande verktygsfält",
+          "layout": "image-bottom",
+          "html": "",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/9363adfff4357768.webp",
+              "width": 1600,
+              "height": 900
+            }
+          ]
+        },
+        {
+          "title": "Grundläggande verktyg 1",
+          "layout": "image-bottom",
+          "html": "",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/1fdd0d15f1c6d1cf.webp",
+              "width": 1600,
+              "height": 900
+            }
+          ]
+        },
+        {
+          "title": "Grundläggande verktyg 2",
+          "layout": "image-bottom",
+          "html": "",
+          "images": [
+            {
+              "src": "/content/images/sv/attachments/0e4e9f6fe6181a4a.webp",
+              "width": 1600,
+              "height": 900
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
