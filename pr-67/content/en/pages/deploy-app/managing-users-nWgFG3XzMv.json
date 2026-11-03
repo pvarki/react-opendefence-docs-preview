@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "e638313d-1814-4431-aea2-495e49ba5b63",
+  "slug": "managing-users-nWgFG3XzMv",
+  "collection": "deploy-app",
+  "locale": "en",
+  "title": "Managing Users",
+  "breadcrumb": [
+    "Platforms",
+    "iOS",
+    "Admin Guide",
+    "Managing Users"
+  ],
+  "createdAt": "2026-06-13T22:59:19.817Z",
+  "updatedAt": "2026-06-18T20:39:03.381Z",
+  "headings": [],
+  "translations": {
+    "en": "/en/deploy-app/managing-users-nWgFG3XzMv",
+    "fi": "/fi/deploy-app/kayttajien-hallinta-ThmzgQfcOQ",
+    "sv": "/sv/deploy-app/hantera-anvandare-l24qOTAPIQ"
+  },
+  "blocks": [
+    {
+      "type": "slideset",
+      "source": "legacy",
+      "slides": [
+        {
+          "title": "Manage Users",
+          "layout": "image-left",
+          "html": "<p>Presently, you can manage user's access level and remove them from your Deploy App and all the services.</p>\n<ul>\n<li>User Management can be accessed from the sidebar.</li>\n<li>Select \"Manage Users\".</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/408823f815c4d338.webp",
+              "width": 2560,
+              "height": 5712
+            }
+          ]
+        },
+        {
+          "title": "Managing Users",
+          "layout": "image-left",
+          "html": "<ul>\n<li>Clicking on a user opens up the actions avaivable.</li>\n<li>Actions depends on the current role of the user (admin / fighter).</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/852167e2ab81088f.webp",
+              "width": 2560,
+              "height": 5712
+            }
+          ]
+        },
+        {
+          "title": "Actions",
+          "layout": "image-left",
+          "html": "<ul>\n<li>Fighters can be removed or promoted to \"admin.\"</li>\n<li>Admins can be removed or demoted to \"fighter.\"\nUser group management is an upcoming feature. Presently if you know what you are doing, you can alter them using the Keycloak interface covered next.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/a03b290d698f994c.webp",
+              "width": 2560,
+              "height": 5712
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

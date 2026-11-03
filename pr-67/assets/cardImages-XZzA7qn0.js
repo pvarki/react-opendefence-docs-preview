@@ -1,0 +1,1 @@
+const g={"guides/mtx-guide":{src:"/images/mtxlogo.svg",logo:!0},"guides/matrix-guide":{src:"/images/matrixlogo.svg",logo:!0},"guides/cryptpad-guide":{src:"/images/cryptpadlogo.svg",logo:!0},"wikis/mtx":{src:"/images/mtxlogo.svg",logo:!0}};export{g as C};

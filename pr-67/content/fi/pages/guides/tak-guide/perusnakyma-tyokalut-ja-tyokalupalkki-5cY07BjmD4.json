@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "135d7682-d3f6-4c38-bcb8-c4355ca4efb5",
+  "slug": "perusnakyma-tyokalut-ja-tyokalupalkki-5cY07BjmD4",
+  "collection": "guides/tak-guide",
+  "locale": "fi",
+  "title": "Perusnäkymä, työkalut ja työkalupalkki",
+  "breadcrumb": [
+    "Platforms",
+    "ATAK",
+    "Perustoiminnot",
+    "Perusnäkymä, työkalut ja työkalupalkki"
+  ],
+  "createdAt": "2026-06-18T19:25:14.100Z",
+  "updatedAt": "2026-09-12T19:58:55.295Z",
+  "headings": [],
+  "translations": {
+    "en": "/en/guides/tak-guide/basic-view-tools-and-toolbar-juXbYsGMih",
+    "fi": "/fi/guides/tak-guide/perusnakyma-tyokalut-ja-tyokalupalkki-5cY07BjmD4",
+    "sv": "/sv/guides/tak-guide/grundvy-verktyg-och-verktygsfalt-Lpm8S3bYgv"
+  },
+  "blocks": [
+    {
+      "type": "slideset",
+      "source": "canonical",
+      "slides": [
+        {
+          "title": "Perusnäkymä",
+          "layout": "image-bottom",
+          "html": "<p>Seuraavat kuvat opastavat ATAKin perusnäkymän käyttöä ja kertovat eri painikkeiden merkityksen.</p>",
+          "images": [
+            {
+              "src": "/content/images/fi/attachments/458ff245c9efc6aa.webp",
+              "width": 1600,
+              "height": 900
+            }
+          ]
+        },
+        {
+          "title": "Perustyökalupalkki",
+          "layout": "image-bottom",
+          "html": "",
+          "images": [
+            {
+              "src": "/content/images/fi/attachments/9363adfff4357768.webp",
+              "width": 1600,
+              "height": 900
+            }
+          ]
+        },
+        {
+          "title": "Perustyökalut 1",
+          "layout": "image-bottom",
+          "html": "",
+          "images": [
+            {
+              "src": "/content/images/fi/attachments/1fdd0d15f1c6d1cf.webp",
+              "width": 1600,
+              "height": 900
+            }
+          ]
+        },
+        {
+          "title": "Perustyökalut 2",
+          "layout": "image-bottom",
+          "html": "",
+          "images": [
+            {
+              "src": "/content/images/fi/attachments/0e4e9f6fe6181a4a.webp",
+              "width": 1600,
+              "height": 900
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
