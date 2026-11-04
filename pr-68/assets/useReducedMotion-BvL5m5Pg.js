@@ -1,0 +1,1 @@
+import{r}from"./index-BLuCTxrg.js";const n="(prefers-reduced-motion: reduce)";function o(e){const t=window.matchMedia(n);return t.addEventListener("change",e),()=>t.removeEventListener("change",e)}function c(){return r.useSyncExternalStore(o,()=>window.matchMedia(n).matches,()=>!1)}export{c as u};
