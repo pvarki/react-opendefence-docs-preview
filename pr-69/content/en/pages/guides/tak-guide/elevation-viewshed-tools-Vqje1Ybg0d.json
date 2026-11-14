@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "d387b912-e790-4f80-8177-e9db3d63d428",
+  "slug": "elevation-viewshed-tools-Vqje1Ybg0d",
+  "collection": "guides/tak-guide",
+  "locale": "en",
+  "title": "Elevation & Viewshed Tools",
+  "breadcrumb": [
+    "Platforms",
+    "ATAK",
+    "ADDITIONAL FEATURES",
+    "Elevation, Terrain & Map Tools",
+    "Elevation & Viewshed Tools"
+  ],
+  "createdAt": "2026-06-15T19:43:25.969Z",
+  "updatedAt": "2026-06-18T20:20:59.232Z",
+  "headings": [],
+  "translations": {
+    "en": "/en/guides/tak-guide/elevation-viewshed-tools-Vqje1Ybg0d",
+    "fi": "/fi/guides/tak-guide/korkeus-ja-nakyvyystyokalut-K38iegcAlI",
+    "sv": "/sv/guides/tak-guide/hojd-och-siktverktyg-i9f2Drimqi"
+  },
+  "blocks": [
+    {
+      "type": "html",
+      "html": "<p>Read the ground before you move: shade terrain by height or slope, check what a position can actually see, and lay down contour lines. Needs elevation data (DTED, SRTM or similar) loaded.</p>"
+    },
+    {
+      "type": "slideset",
+      "source": "canonical",
+      "slides": [
+        {
+          "title": "Shade terrain by height",
+          "layout": "image-bottom",
+          "html": "<p>Tap the <strong>Elevation Tools</strong> icon, then on the <strong>Heatmap</strong> tab tick <strong>Show</strong>.</p>\n<ul>\n<li>Low ground shows blue, high ground red.</li>\n<li>Tune <strong>Intensity</strong>, <strong>Saturation</strong> and <strong>Value</strong> to taste.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/e07bd0af70135334.webp",
+              "width": 497,
+              "height": 226
+            }
+          ]
+        },
+        {
+          "title": "See the steep ground",
+          "layout": "image-bottom",
+          "html": "<p>In the <strong>Heatmap</strong> box switch the selection to <strong>Terrain Slope</strong>.</p>\n<ul>\n<li>Gentle slopes show yellow, steep ground shows black.</li>\n<li>Drag <strong>Intensity</strong> to make it clearer.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/a9beadee890172dc.webp",
+              "width": 496,
+              "height": 225
+            }
+          ]
+        },
+        {
+          "title": "Drop a viewshed",
+          "layout": "image-bottom",
+          "html": "<p>On the <strong>Viewshed</strong> tab tap <strong>Place Viewshed</strong> (the eye), then tap a spot or marker.</p>\n<ul>\n<li>Green = visible from there, red = blocked.</li>\n<li>Zoom in if only the eye icon shows.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/1207561beb07e562.webp",
+              "width": 207,
+              "height": 420
+            }
+          ]
+        },
+        {
+          "title": "Tune what it can see",
+          "layout": "image-bottom",
+          "html": "<p>Set <strong>Height Above marker</strong> and <strong>Radius</strong> for the position.</p>\n<ul>\n<li>Toggle <strong>Source</strong> between Terrain and Surface, and use the <strong>Seen</strong> / <strong>Unseen</strong> sliders to fade each area.</li>\n<li><strong>Remove Viewshed</strong> clears it.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/1207561beb07e562.webp",
+              "width": 207,
+              "height": 420
+            }
+          ]
+        },
+        {
+          "title": "Lay down contour lines",
+          "layout": "image-bottom",
+          "html": "<p>On the <strong>Contour</strong> tab set the <strong>Interval</strong> and units (m or ft), then tap <strong>Generate</strong> once zoomed to a usable scale.</p>\n<ul>\n<li>Toggle <strong>Lines</strong> and <strong>Minor Lines</strong> with their <strong>SHOW</strong> buttons.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/1ac7bc7784ccc351.webp",
+              "width": 517,
+              "height": 299
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
