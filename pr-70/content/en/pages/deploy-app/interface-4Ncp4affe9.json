@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "e7c97a4b-01e4-4937-93e9-f60581de1ac4",
+  "slug": "interface-4Ncp4affe9",
+  "collection": "deploy-app",
+  "locale": "en",
+  "title": "Interface",
+  "breadcrumb": [
+    "Platforms",
+    "Android",
+    "User Guide",
+    "Interface"
+  ],
+  "createdAt": "2026-02-16T13:49:18.045Z",
+  "updatedAt": "2026-06-13T22:26:08.125Z",
+  "headings": [],
+  "translations": {
+    "en": "/en/deploy-app/interface-4Ncp4affe9",
+    "fi": "/fi/deploy-app/kayttoliittyma-9RSCOjN5ER",
+    "sv": "/sv/deploy-app/granssnitt-vx5s9QUx7Y"
+  },
+  "blocks": [
+    {
+      "type": "slideset",
+      "source": "legacy",
+      "slides": [
+        {
+          "title": "Status of the Applications",
+          "layout": "image-left",
+          "html": "<ul>\n<li>From the top-right corner you can see the status of the services.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/75918bc3b5397f8e.webp",
+              "width": 2560,
+              "height": 5712
+            }
+          ]
+        },
+        {
+          "title": "All Green, All Good",
+          "layout": "image-left",
+          "html": "<ul>\n<li>This can be useful if encountering issues to see where the issue is.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/11df166e36d1746c.webp",
+              "width": 2560,
+              "height": 5712
+            }
+          ]
+        },
+        {
+          "title": "Sending Feedback",
+          "layout": "image-left",
+          "html": "<ul>\n<li>You can send us feedback from the bottom of the page.</li>\n<li>We appreciate all feedback we receive.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/bb6f6a8670c2b25c.webp",
+              "width": 5120,
+              "height": 5782
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
