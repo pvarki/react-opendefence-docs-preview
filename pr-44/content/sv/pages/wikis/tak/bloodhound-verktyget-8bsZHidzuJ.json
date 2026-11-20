@@ -35,6 +35,10 @@
       "id": "bloodhound-avsnittet-i-atak-användarhandboken"
     }
   ],
+  "translations": {
+    "en": "/en/wikis/tak/bloodhound-tool-kZ8MTy07YY",
+    "fi": "/fi/wikis/tak/bloodhound-tyokalu-6Upz4LkrO9"
+  },
   "blocks": [
     {
       "type": "image",
@@ -57,7 +61,7 @@
     },
     {
       "type": "pdf",
-      "src": "attachments/daaf7514-a184-4c70-bb69-0b34b96584cc.pdf",
+      "src": "/content/files/cb99411da1a39924.pdf",
       "title": "ATAK 5.6 Bloodhound.pdf"
     }
   ]

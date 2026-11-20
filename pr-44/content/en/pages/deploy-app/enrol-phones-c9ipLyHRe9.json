@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "a7f6b598-93e8-4c0e-85fb-d7a062499d91",
+  "slug": "enrol-phones-c9ipLyHRe9",
+  "collection": "deploy-app",
+  "locale": "en",
+  "title": "Enrol phones",
+  "breadcrumb": [
+    "Platforms",
+    "Android",
+    "Admin Guide",
+    "Bringing users via MDM",
+    "Enrol phones"
+  ],
+  "createdAt": "2026-10-29T10:35:51.931Z",
+  "updatedAt": "2026-11-20T21:31:29.731Z",
+  "headings": [],
+  "blocks": [
+    {
+      "type": "slideset",
+      "source": "canonical",
+      "slides": [
+        {
+          "title": "Get the enrolment link",
+          "layout": "image-bottom",
+          "html": "<p>In Fleet, open your Deploy App team, then <strong>Add hosts</strong> and <strong>Android</strong>. Send the link to the phones, as many as you like.</p>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/be65720cb87b22b7.webp",
+              "width": 2128,
+              "height": 1326
+            }
+          ]
+        },
+        {
+          "title": "Open the link on the phone",
+          "layout": "image-bottom",
+          "html": "<p>Open the link and tap <strong>Enroll</strong>.</p>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/13980932ec6c3a74.webp",
+              "width": 912,
+              "height": 1804
+            }
+          ]
+        },
+        {
+          "title": "Set up the work profile",
+          "layout": "image-bottom",
+          "html": "<p>Tap <strong>Next</strong>, and <strong>Continue</strong> if asked.</p>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/e7f89bb3db7e6a4b.webp",
+              "width": 912,
+              "height": 1804
+            }
+          ]
+        },
+        {
+          "title": "Accept",
+          "layout": "image-bottom",
+          "html": "<p>Tap <strong>Accept &#x26; continue</strong>, then <strong>Next</strong> if asked.</p>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/e0d676c54c6c7569.webp",
+              "width": 912,
+              "height": 1804
+            }
+          ]
+        },
+        {
+          "title": "Done",
+          "layout": "image-bottom",
+          "html": "<p>Tap <strong>Done</strong>. The apps arrive in the work profile. The phone now waits for its name.</p>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/6ff5b74a5a7be991.webp",
+              "width": 912,
+              "height": 1804
+            }
+          ]
+        },
+        {
+          "title": "Phones already in Fleet",
+          "layout": "image-bottom",
+          "html": "<p>Enrolled in another team? Tick the phones in Fleet, choose <strong>Transfer</strong> and pick your Deploy App team. For this team's apps too, enrol them again here.</p>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/80b224e7ffe15bee.webp",
+              "width": 2128,
+              "height": 1210
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -25,12 +25,16 @@
       "id": "tak-replay--lisäosan-käyttöohje-wintaklle"
     }
   ],
+  "translations": {
+    "en": "/en/wikis/tak/tak-replay-plugin-kodpUReaKa",
+    "fi": "/fi/wikis/tak/tak-replay-lisaosa-xEHeK6Wly9",
+    "sv": "/sv/wikis/tak/tak-replay-tillagget-W56dg3ltjm"
+  },
   "blocks": [
     {
       "type": "image",
       "src": "/content/images/fi/attachments/aa2e72c8a045629f.webp",
       "alt": "",
-      "caption": "=310x",
       "width": 310,
       "height": 310
     },
@@ -40,7 +44,7 @@
     },
     {
       "type": "pdf",
-      "src": "attachments/95066010-7714-4928-be41-12d7684013a5.pdf",
+      "src": "/content/files/077dfb8a7049034d.pdf",
       "title": "WinTAK 5.5 TAK Replay User Guide.pdf"
     }
   ]
