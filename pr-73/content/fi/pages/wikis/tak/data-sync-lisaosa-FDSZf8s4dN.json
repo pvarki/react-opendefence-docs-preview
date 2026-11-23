@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "c8fc27ed-ee98-4026-bb37-d4c797ad7a9a",
+  "slug": "data-sync-lisaosa-FDSZf8s4dN",
+  "collection": "wikis/tak",
+  "locale": "fi",
+  "title": "Data Sync -lisäosa",
+  "breadcrumb": [
+    "TAK Työkalut Tuotteille",
+    "Data Sync -lisäosa"
+  ],
+  "createdAt": "2025-12-08T01:07:36.844Z",
+  "updatedAt": "2026-02-19T13:34:41.237Z",
+  "headings": [
+    {
+      "depth": 2,
+      "text": "TAK-tuotesivut lisäosalle",
+      "id": "tak-tuotesivut-lisäosalle"
+    }
+  ],
+  "translations": {
+    "en": "/en/wikis/tak/data-sync-plugin-k4cwn1ZWo5",
+    "fi": "/fi/wikis/tak/data-sync-lisaosa-FDSZf8s4dN",
+    "sv": "/sv/wikis/tak/data-sync-tillagg-izVIiIaHkF"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "/content/images/fi/attachments/5c6d780d65fe7f7b.webp",
+      "alt": "",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "type": "html",
+      "html": "<p>Data Synchronization -lisäosaa käytetään synkronoimaan useita TAK-laitteita, jotka osallistuvat samaan harjoitukseen tai tapahtumaan. Tämä liitännäinen vaatii TAK Server -version 1.3.3 tai uudemman. TAK Server tallentaa kaiken \"mission\" eli tehtävän datan palvelinpuolen tietokantaan. Asiakaslaitteet voivat tilata mission saadakseen dynaamisia päivityksiä tehtävän muuttuessa tai synkronoidakseen tiedot, jotka jäivät vastaanottamatta laitteen ollessa irti yhteydestä.</p>\n<h2 id=\"tak-tuotesivut-lisäosalle\"><a href=\"#tak-tuotesivut-lisäosalle\">TAK-tuotesivut lisäosalle</a></h2>\n<ul>\n<li>WinTAK <a href=\"/fi/wikis/tak/data-sync-lisaosa-jU43Cz3gXs\">Data Sync -lisäosa</a></li>\n<li>ATAK <a href=\"/fi/wikis/tak/data-sync-lisaosa-knb4IdgXyb\">Data Sync -lisäosa</a></li>\n</ul>"
+    }
+  ]
+}
