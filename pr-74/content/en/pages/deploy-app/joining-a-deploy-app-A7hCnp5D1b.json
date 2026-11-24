@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "cdde88ea-2777-42c6-b918-b9726de6926a",
+  "slug": "joining-a-deploy-app-A7hCnp5D1b",
+  "collection": "deploy-app",
+  "locale": "en",
+  "title": "Joining a Deploy App",
+  "breadcrumb": [
+    "Platforms",
+    "iOS",
+    "User Guide",
+    "Joining a Deploy App"
+  ],
+  "createdAt": "2026-06-13T22:59:18.510Z",
+  "updatedAt": "2026-10-22T13:25:42.376Z",
+  "headings": [],
+  "translations": {
+    "en": "/en/deploy-app/joining-a-deploy-app-A7hCnp5D1b",
+    "fi": "/fi/deploy-app/liittyminen-deploy-appiin-Jy261fSdzF",
+    "sv": "/sv/deploy-app/ansluta-till-en-deploy-app-rDiRCLSL8s"
+  },
+  "blocks": [
+    {
+      "type": "slideset",
+      "source": "legacy",
+      "slides": [
+        {
+          "title": "Open your invite",
+          "layout": "image-left",
+          "html": "<p>Open the invite link or scan the QR code you got. Deploy App opens with your invite code filled in.</p>\n<ul>\n<li>Only got a code? Type it in <strong>Enter your code</strong> and press <strong>Login with Code</strong>.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/41117c089121a946.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Choose your callsign",
+          "layout": "image-left",
+          "html": "<p>Type a callsign your unit knows you by and press <strong>Continue</strong>.</p>\n<ul>\n<li>You use the same callsign in every service.</li>\n<li>It is also your certificate password.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/e90ff14442e3f9cb.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Get approved",
+          "layout": "image-left",
+          "html": "<p>An admin has to approve you.</p>\n<ul>\n<li>Admin next to you: show them the QR code.</li>\n<li>Admin somewhere else: press <strong>Send link</strong> and pick them in Signal, for example.</li>\n<li>Leave the page open. It moves on by itself once you are approved.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/615ac5e73477284d.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Get your key",
+          "layout": "image-left",
+          "html": "<p>Press <strong>Download key</strong>. Safari asks about a configuration profile. Tap <strong>Allow</strong>, then <strong>Close</strong>.</p>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/d51c581d8489f9c7.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Install the key in Settings",
+          "layout": "image-left",
+          "html": "<p>Open <strong>Settings</strong> and follow the tiles:</p>\n<ol>\n<li>Tap <strong>Profile Downloaded</strong>.</li>\n<li>Tap <strong>Install</strong> three times and enter your passcode.</li>\n<li>Paste the password. Deploy App already copied your callsign.</li>\n<li>Tap <strong>Done</strong> and go back to Safari.</li>\n</ol>\n<p>Then press <strong>Installed – continue</strong>.</p>\n<ul>\n<li>Install failed? Remove the old profile in <strong>General → VPN &#x26; Device Management</strong>.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/a6c6e92252b4b397.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "Go to the service",
+          "layout": "image-left",
+          "html": "<p>Press <strong>Go to the service</strong>. When Safari asks for your certificate, tap <strong>Continue</strong>.</p>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/7625e3f82f2b7a8d.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        },
+        {
+          "title": "You're in",
+          "layout": "image-left",
+          "html": "<p>Deploy App opens. A short guide shows the first time. Press <strong>Next</strong> to go through it, or close it.</p>\n<ul>\n<li>Tick <strong>Do not show me guides automatically</strong> if you don't want guides to pop up.</li>\n</ul>",
+          "images": [
+            {
+              "src": "/content/images/en/attachments/dc34810ea8a524db.webp",
+              "width": 1170,
+              "height": 2532
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
